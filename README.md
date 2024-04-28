@@ -1,0 +1,2 @@
+# NFT_hello_world
+通过最简单的一个方式来创建一个NFT，相当于是一个NFT的hello world
