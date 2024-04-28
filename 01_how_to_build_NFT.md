@@ -2,9 +2,7 @@
 
 本文的主要目的是帮助新手能够创建一个最简单的NFT，帮助各位能够最简单直观的理解NFT是什么，为后续的进一步开发打下基础。
 
-阅读本文之前，最好需要掌握一点Solidity知识以及区块链知识。solidity的教程推荐
-
-[Solidity]: https://www.wtf.academy/docs/solidity-101
+阅读本文之前，最好需要掌握一点Solidity知识以及区块链知识。[solidity的教程推荐](https://www.wtf.academy/docs/solidity-101)
 
 不会的话其实也没关系，你也可以根据本教程的步骤，一步一步，最后生成你自己第一个NFT
 
